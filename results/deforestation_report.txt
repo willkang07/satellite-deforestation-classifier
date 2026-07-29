@@ -1,0 +1,15 @@
+DEFORESTATION DETECTION REPORT (2018-2024)
+============================================================
+
+Forest in 2018: 9 patches
+Forest in 2024: 6 patches
+Forest lost: 3 patches (33.3%)
+Deforestation events: 6
+
+Deforestation Zones:
+  1. Position (0, 64): Forest → AnnualCrop
+  2. Position (0, 256): Forest → AnnualCrop
+  3. Position (64, 64): Forest → Residential
+  4. Position (64, 128): Forest → SeaLake
+  5. Position (128, 128): Forest → AnnualCrop
+  6. Position (384, 256): Forest → AnnualCrop
